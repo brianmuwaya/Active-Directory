@@ -10,13 +10,23 @@ In this lab we're going to walk through how to create an Active Directory home l
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Oracle Virtual Box</b>
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b>
 
+- <b>Server 19</b>
+
+
 <h2>Program walk-through:</h2>
+
+
+<p align="center">
+Network design for whole project: <br/>
+<img src="https://i.imgur.com/V7szh64.png) height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 <p align="center">
 Creating Users with Powershell: <br/>
@@ -24,6 +34,7 @@ Creating Users with Powershell: <br/>
 <br />
 <br />
 
+<br />
 </p>
 
 
