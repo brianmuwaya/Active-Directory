@@ -21,9 +21,9 @@ The research team at my organization needs to update the file permissions for ce
 
 
 <p align="center">
-Check file and directory details: <br/>
+ Check file and directory details: <br/>
 The following code demonstrates how I used Linux commands to determine the existing permissions set for a specific directory in the file system. <br/>
-<img src="https://i.imgur.com/V7szh64.png) height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FQBMRW4.png)height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
