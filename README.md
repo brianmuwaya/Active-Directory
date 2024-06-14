@@ -1,29 +1,28 @@
-<h1>Active Directory Home Lab(In progress)</h1>
+<h1>File permissions in Linux(In progress)</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
-<h2>Description</h2>
-In this lab we're going to walk through how to create an Active Directory home lab Environment using Oracle Virtual Box. Configuring and running this lab will definitley help develop your understanding of how active directory and windows networking works, so I'd highly recommend running through it a couple times, ask questions where stuff is unclear, and eventually try to build it on your own without watching. Please let me know if you have any questions!
+<h2>Project description</h2>
+The research team at my organization needs to update the file permissions for certain files and directories within the projects directory. The permissions do not currently reflect the level of authorization that should be given. Checking and updating these permissions will help keep their system secure. To complete this task, I performed the following tasks:
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Oracle Virtual Box</b>
+- <b>Linux</b> 
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b>
 
-- <b>Server 19</b>
+- <b>Google cloud</b>
 
 
 <h2>Program walk-through:</h2>
 
 
 <p align="center">
-Network design for whole project: <br/>
+Check file and directory details: <br/>
+The following code demonstrates how I used Linux commands to determine the existing permissions set for a specific directory in the file system. <br/>
 <img src="https://i.imgur.com/V7szh64.png) height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
