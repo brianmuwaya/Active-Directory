@@ -8,13 +8,14 @@ In lab, I create an Active Directory home lab environment using Oracle Virtual B
 
 <h2>Utilities Used</h2>
 
-- <b>Windows 10</b> 
+- <b>PowerShell</b>
+- <b>Oracle Virtual Box</b>
 
 <h2>Environments Used </h2>
 
-- <b>Virtual Box</b>
+- <b>Windows 10</b>
 
-- <b>Powershell</b>
+- <b>Server 2019</b>
 
 
 <h2>Program walk-through:</h2>
