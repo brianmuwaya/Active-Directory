@@ -21,9 +21,9 @@ In lab, I create an Active Directory home lab environment using Oracle Virtual B
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Change file permissions <br/>
- The organization determined that other shouldn't have writes: <br/>
-<img src="https://i.imgur.com/rd2q3ox.png)height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Network design <br/>
+ <br/>
+<img src="https://i.imgur.com/xGRpHhr.png"/>
 <br />
 <br />
 
